@@ -7,7 +7,7 @@ let count_down = new Date('12/23/2022 18:00:00').getTime();
 let x = setInterval(() => countDown(), second);
 let data_p_calc = new Date('11/15/2022 00:00:00').getTime();
 let data_p_fsc = new Date('11/13/2022 00:00:00').getTime();
-let data_p_termo = new Date('11/09/2022 00:00:00').getTime();
+let data_p_termo = new Date('11/07/2022 00:00:00').getTime();
 
 function countDown() {
   let now = new Date(Date.now()).getTime();
