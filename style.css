@@ -12,9 +12,6 @@ body{
     min-height: 100vh;
     font-family: "Poppins";
     margin: 0;
-    background-repeat: no-repeat;
-    background-size: 40%;
-    background-position: center center;
 }
 
 h1{
