@@ -5,7 +5,7 @@ const day = hour * 24;
 
 let count_down = new Date('12/23/2022 18:00:00').getTime();
 let x = setInterval(() => countDown(), second);
-let data_p_calc = new Date('11/23/2022 23:59:59').getTime();
+let data_p_calc = new Date('12/19/2022 23:59:59').getTime();
 let data_p_fsc = new Date('12/14/2022 23:59:59').getTime();
 let data_p_termo = new Date('12/20/2022 23:59:59').getTime();
 
